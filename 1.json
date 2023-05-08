@@ -1,5 +1,5 @@
 {
-    "name": "otome",
+    "name": "otome theme",
     "description": "by otome and nour",
     "authors": [
         {
@@ -10,160 +10,123 @@
   "spec": 2,
     "semanticColors": {
         "HEADER_PRIMARY": [
-        
-            "#00A86B",
-            "#245923"
+            "#00F7B5"
         ],
         "HEADER_SECONDARY": [
-            "#00A86B",
-            "#245923"
+            "#00B784"
         ],
         "TEXT_NORMAL": [
-            "#00A86B",
-            "#245923"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#00A86B",
-            "#245923"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#00A86B",
-            "#245923"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#00A86B",
-            "#245923"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#00A86B",
-            "#245923"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#00A86B",
-            "#245923"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#00A86B",
-            "#245923"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#00A86B",
-            "#245923"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent",
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#00A86B",
-            "#245923"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#00A86B",
-            "#245923"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#00A86B",
-            "#245923"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#00A86B",
-            "#245923"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#00A86B",
-            "#245923"
+            "#006B4F"
         ],
         "TEXT_LINK": [
-            "#00A86B",
-            "#245923"
+            "#00F7B5"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#00D199"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#00F7B5"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#006B4F"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#222222"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2F2F2F"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2F2F2F"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#222222"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#00B081"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#222222"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#222222"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#222222"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#222222"
+        ],
+       
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#292929"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#292929"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#00A87B"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#00996E"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#222222"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#2a2a2a"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#006B4F"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#00A77A"
+        ],
+        "TEXT_DANGER": [
+            "#FC0E61"
         ],
         "KEYBOARD": [
-            "#00A86B",
-            "#245923"
+            "#282828"
         ],
         "CHANNEL_ICON": [
-            "#00A86B",
-            "#245923"
+            "#00D199"
+        ],
+        "CHAT_BACKGROUND": [
+            "#222222"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#3A3A3A"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#5E5E5E"
         ]
     },
     "rawColors": {
-    "PRIMARY_DARK": "#4d4463",
-    "PRIMARY_100": "#2E293F",
-    "PRIMARY_200": "#D793B5",
-    "PRIMARY_300": "#4d4463",
-    "PRIMARY_360": "#D793B5",
-    "PRIMARY_400": "#D793B5",
-    "PRIMARY_500": "#2E293F",
-    "PRIMARY_600": "#9874b5",
-    "PRIMARY_630": "#4D4660",
-    "PRIMARY_660": "#4d4463",
-    "PRIMARY_700": "#5B539D",
-    "PRIMARY_800": "#5B539D",
-    "BRAND_260": "#504863",
-    "BRAND_360": "#2E293F",
-    "BRAND_500": "#625682",
-    "BRAND_560": "#D793B5",
-    "BRAND_900": "#4d4463",
-    "BRAND_NEW": "#a297c3",
-    "YELLOW_300": "#fbd1e6",
-    "GREEN_360": "#D793B5",
-    "DANGER": "#625682",
-    "RED_400": "#D793B5"
+        "PRIMARY_100": "#00FFBB",
+        "PRIMARY_200": "#006B4F",
+        "PRIMARY_300": "#00E2A6",
+        "PRIMARY_360": "#00FFBB",
+        "PRIMARY_400": "#00FFBB",
+        "PRIMARY_500": "#006B4F",
+        "PRIMARY_600": "#222222",
+        "PRIMARY_630": "#2F2F2F",
+        "PRIMARY_660": "#2F2F2F",
+        "PRIMARY_700": "#222222",
+        "PRIMARY_800": "#222222",
+
+        "BRAND_260": "#00B784",
+        "BRAND_360": "#00FFBB",
+        "BRAND_500": "#00D39B",
+        "BRAND_560": "#00FFBB",
+
+        "RED_400": "#FC0E61",
+        "YELLOW_300": "#00FFBB",
+        "GREEN_360": "#00FFBB",
+        "WHITE_500": "#FFFFFF"
     },
-  
       "background": {
     "blur": 1,
     "url": "https://media.discordapp.net/attachments/1104522939380023296/1105212266799964160/14d41b6249b6c497d86d8f97ae4a3967_8424189919386672358.jpg",
