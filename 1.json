@@ -11,132 +11,132 @@
     "semanticColors": {
         "HEADER_PRIMARY": [
         
-            "#F4F4F4",
-            "#edd49b"
+            "#00A86B",
+            "#245923"
         ],
         "HEADER_SECONDARY": [
-            "#c8c8c8",
-            "#d8c28f"
+            "#00A86B",
+            "#245923"
         ],
         "TEXT_NORMAL": [
-            "#F4F4F4",
-            "#c8c8c8"
+            "#00A86B",
+            "#245923"
         ],
         "TEXT_MUTED": [
-            "#c8c8c8",
-            "#C8B68E"
+            "#00A86B",
+            "#245923"
         ],
         "INTERACTIVE_NORMAL": [
-            "#fbd1e6",
-            "#d8c28f"
+            "#00A86B",
+            "#245923"
         ],
         "INTERACTIVE_HOVER": [
-            "#fbd1e6",
-            "#d8c28f"
+            "#00A86B",
+            "#245923"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#fbd1e6",
-            "#d8c28f"
+            "#00A86B",
+            "#245923"
         ],
         "INTERACTIVE_MUTED": [
-            "#B597A6",
-            "#c9bbc8"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_PRIMARY": [
-            "#9874b5",
-            "#161519"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_SECONDARY": [
-            "#916FAC",
-            "#29272E"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#806297",
-            "#0E0D10"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_TERTIARY": [
-            "#4D4786",
-            "#121215"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_ACCENT": [
-            "#4D4660",
-            "#504863"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_FLOATING": [
-            "#454078",
-            "#29272E"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#514a8d",
-            "#222228"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#514a8d",
-            "#655cb0"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#514a8d",
-            "#4d4463"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#514a8d",
-            "#1F1F2B"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#514a8d",
-            "#1a1926"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#514a8d",
-            "#1F1F2B"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#4D4660",
-            "#373147"
+            "#00A86B",
+            "#245923"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#d49dea",
-            "#29272E"
+            "#00A86B",
+            "#245923"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b",
-            "#26273b"
+            "#00A86B",
+            "#245923"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent",
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#26273b",
-            "#26273b"
+            "#00A86B",
+            "#245923"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "1a1926",
-            "1a1926"
+            "#00A86B",
+            "#245923"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#c8c8c8",
-            "#d8c28f"
+            "#00A86B",
+            "#245923"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#2E293F",
-            "#111111"
+            "#00A86B",
+            "#245923"
         ],
         "CHANNELS_DEFAULT": [
-            "#2E293F",
-            "#7c6ea7"
+            "#00A86B",
+            "#245923"
         ],
         "TEXT_LINK": [
-            "#fbd1e6",
-            "#fbd1e6"
+            "#00A86B",
+            "#245923"
         ],
         "KEYBOARD": [
-            "#9874b5",
-            "#161519"
+            "#00A86B",
+            "#245923"
         ],
         "CHANNEL_ICON": [
-            "#D793B5",
-            "#BFBFBF"
+            "#00A86B",
+            "#245923"
         ]
     },
     "rawColors": {
@@ -165,9 +165,9 @@
     },
   
       "background": {
-    "blur": 0.6,
+    "blur": 1,
     "url": "https://media.discordapp.net/attachments/1104522939380023296/1105212266799964160/14d41b6249b6c497d86d8f97ae4a3967_8424189919386672358.jpg",
     "alpha": 0.8
     },
-    "color": "#4d4463"
+    "color": "#00A86B"
 }
